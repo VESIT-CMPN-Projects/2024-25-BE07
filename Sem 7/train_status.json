@@ -1,0 +1,486 @@
+{
+    "2024-09-26 14:51:01": [
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "-6:00"
+        },
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "4:12"
+        },
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "6:32"
+        },
+        {
+            "Train No": "01139",
+            "Train Name": "NGP-MAO SPECIAL",
+            "Status": "ARRIVED",
+            "Station": "KAMATHE",
+            "Time": "14:46",
+            "Delay": "5:21"
+        },
+        {
+            "Train No": "09057",
+            "Train Name": "UDN-MAJN TOD SPL",
+            "Status": "ARRIVED",
+            "Station": "CANACONA",
+            "Time": "14:48",
+            "Delay": "1:49"
+        },
+        {
+            "Train No": "10103",
+            "Train Name": "CSMT-MAO MANDOVI EXP",
+            "Status": "ARRIVED",
+            "Station": "SAWARDA",
+            "Time": "14:38",
+            "Delay": "1:39"
+        },
+        {
+            "Train No": "10104",
+            "Train Name": "MAO-CSMT MANDOVI EXP",
+            "Status": "LEFT",
+            "Station": "RATNAGIRI",
+            "Time": "14:50",
+            "Delay": "0:20"
+        },
+        {
+            "Train No": "10105",
+            "Train Name": "DIVA SWV EXPRESS",
+            "Status": "LEFT",
+            "Station": "UKSHI",
+            "Time": "14:44",
+            "Delay": "1:23"
+        },
+        {
+            "Train No": "10106",
+            "Train Name": "SWV DIVA PASS",
+            "Status": "LEFT",
+            "Station": "CHIPLUN",
+            "Time": "14:37",
+            "Delay": "0:9"
+        },
+        {
+            "Train No": "10116",
+            "Train Name": "MAO-BDTS",
+            "Status": "LEFT",
+            "Station": "ARAVALI ROAD",
+            "Time": "14:36",
+            "Delay": "0:2"
+        },
+        {
+            "Train No": "12051",
+            "Train Name": "CSMT-MAO JANSHATABDI",
+            "Status": "LEFT",
+            "Station": "SINDHUDURG",
+            "Time": "14:45",
+            "Delay": "0:59"
+        },
+        {
+            "Train No": "12052",
+            "Train Name": "MAO-CSMT JANSHATABDI",
+            "Status": "LEFT",
+            "Station": "SAWANTWADI ROAD",
+            "Time": "14:44",
+            "Delay": "1:11"
+        },
+        {
+            "Train No": "12133",
+            "Train Name": "CSMT-MAJN EXPRESS",
+            "Status": "ARRIVED",
+            "Station": "KARMALI",
+            "Time": "14:42",
+            "Delay": "3:23"
+        },
+        {
+            "Train No": "12218",
+            "Train Name": "KERALA S.KRANTI EXP",
+            "Status": "LEFT",
+            "Station": "RATNAGIRI",
+            "Time": "14:34",
+            "Delay": "1:4"
+        },
+        {
+            "Train No": "12224",
+            "Train Name": "ERS-LTT DURONTO",
+            "Status": "LEFT",
+            "Station": "RAJAPUR ROAD",
+            "Time": "14:33",
+            "Delay": "1:45"
+        },
+        {
+            "Train No": "12618",
+            "Train Name": "NZM-ERS MANGALA LKSD",
+            "Status": "ARRIVED",
+            "Station": "VILAVADE",
+            "Time": "14:40",
+            "Delay": "0:52"
+        },
+        {
+            "Train No": "12620",
+            "Train Name": "MATSYAGANDA EXP",
+            "Status": "LEFT",
+            "Station": "BARKUR",
+            "Time": "14:41",
+            "Delay": "0:8"
+        },
+        {
+            "Train No": "16338",
+            "Train Name": "OKHA EXPRESS",
+            "Status": "LEFT",
+            "Station": "ACHIRNE",
+            "Time": "14:48",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "16345",
+            "Train Name": "LTT-TVC NETRAVATI EX",
+            "Status": "LEFT",
+            "Station": "VEER",
+            "Time": "14:43",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "16586",
+            "Train Name": "MRDW-SMVB EXPRESS",
+            "Status": "LEFT",
+            "Station": "SHIROOR",
+            "Time": "14:37",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "20111",
+            "Train Name": "CSMT-MAO KONKAN KANY",
+            "Status": "LEFT",
+            "Station": "MAJORDA JN",
+            "Time": "14:46",
+            "Delay": "1:19"
+        },
+        {
+            "Train No": "22114",
+            "Train Name": "KCVL-LTT BI-WEEKLY S",
+            "Status": "ARRIVED",
+            "Station": "UDUPI",
+            "Time": "14:49",
+            "Delay": "1:8"
+        },
+        {
+            "Train No": "22115",
+            "Train Name": "LTT-KRMI AC SUPER FA",
+            "Status": "LEFT",
+            "Station": "NANDGAON ROAD",
+            "Time": "14:45",
+            "Delay": "4:51"
+        },
+        {
+            "Train No": "22119",
+            "Train Name": "CSTM-MAO TEJAS",
+            "Status": "ARRIVED",
+            "Station": "SANGAMESHWAR ROAD",
+            "Time": "14:48",
+            "Delay": "0:52"
+        },
+        {
+            "Train No": "22150",
+            "Train Name": "PUNE-ERS SF EXPRESS",
+            "Status": "LEFT",
+            "Station": "PERNEM",
+            "Time": "14:48",
+            "Delay": "3:59"
+        },
+        {
+            "Train No": "22230",
+            "Train Name": "MAO-CSMT VANDE BHARA",
+            "Status": "LEFT",
+            "Station": "SINDHUDURG",
+            "Time": "14:44",
+            "Delay": "0:32"
+        },
+        {
+            "Train No": "22633",
+            "Train Name": "NIZAMUDDIN EXP",
+            "Status": "LEFT",
+            "Station": "BHOKE",
+            "Time": "14:26",
+            "Delay": "1:24"
+        },
+        {
+            "Train No": "22908",
+            "Train Name": "HAPA MADGAON EXP",
+            "Status": "LEFT",
+            "Station": "KHED",
+            "Time": "14:35",
+            "Delay": "0:11"
+        },
+        {
+            "Train No": "GARUD",
+            "Train Name": "-SHRN-KVS1 GARUD-SHRN-KVS1",
+            "Status": "LEFT",
+            "Station": "BHATKAL",
+            "Time": "14:44",
+            "Delay": "21:4"
+        },
+        {
+            "Train No": "GAURA",
+            "Train Name": "V-SHRN-SK04 GAURAV-SHRN-SK04",
+            "Status": "LEFT",
+            "Station": "ANKOLA",
+            "Time": "14:47",
+            "Delay": "4:5"
+        }
+    ],
+    "2024-09-26 14:54:01": [
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "-6:00"
+        },
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "4:12"
+        },
+        {
+            "Train No": "00189",
+            "Train Name": "MAHARASHTRA SPLENDOU",
+            "Status": "ARRIVED",
+            "Station": "VERNA",
+            "Time": "12:45",
+            "Delay": "6:32"
+        },
+        {
+            "Train No": "01139",
+            "Train Name": "NGP-MAO SPECIAL",
+            "Status": "ARRIVED",
+            "Station": "KAMATHE",
+            "Time": "14:46",
+            "Delay": "5:21"
+        },
+        {
+            "Train No": "09057",
+            "Train Name": "UDN-MAJN TOD SPL",
+            "Status": "LEFT",
+            "Station": "CANACONA",
+            "Time": "14:50",
+            "Delay": "1:48"
+        },
+        {
+            "Train No": "10103",
+            "Train Name": "CSMT-MAO MANDOVI EXP",
+            "Status": "ARRIVED",
+            "Station": "SAWARDA",
+            "Time": "14:38",
+            "Delay": "1:39"
+        },
+        {
+            "Train No": "10104",
+            "Train Name": "MAO-CSMT MANDOVI EXP",
+            "Status": "LEFT",
+            "Station": "RATNAGIRI",
+            "Time": "14:50",
+            "Delay": "0:20"
+        },
+        {
+            "Train No": "10105",
+            "Train Name": "DIVA SWV EXPRESS",
+            "Status": "LEFT",
+            "Station": "UKSHI",
+            "Time": "14:44",
+            "Delay": "1:23"
+        },
+        {
+            "Train No": "10106",
+            "Train Name": "SWV DIVA PASS",
+            "Status": "LEFT",
+            "Station": "CHIPLUN",
+            "Time": "14:37",
+            "Delay": "0:9"
+        },
+        {
+            "Train No": "10116",
+            "Train Name": "MAO-BDTS",
+            "Status": "LEFT",
+            "Station": "SAWARDA",
+            "Time": "14:50",
+            "Delay": "0:6"
+        },
+        {
+            "Train No": "12051",
+            "Train Name": "CSMT-MAO JANSHATABDI",
+            "Status": "LEFT",
+            "Station": "SINDHUDURG",
+            "Time": "14:45",
+            "Delay": "0:59"
+        },
+        {
+            "Train No": "12052",
+            "Train Name": "MAO-CSMT JANSHATABDI",
+            "Status": "LEFT",
+            "Station": "ZARAP",
+            "Time": "14:51",
+            "Delay": "1:8"
+        },
+        {
+            "Train No": "12133",
+            "Train Name": "CSMT-MAJN EXPRESS",
+            "Status": "LEFT",
+            "Station": "KARMALI",
+            "Time": "14:46",
+            "Delay": "3:26"
+        },
+        {
+            "Train No": "12218",
+            "Train Name": "KERALA S.KRANTI EXP",
+            "Status": "LEFT",
+            "Station": "RATNAGIRI",
+            "Time": "14:34",
+            "Delay": "1:4"
+        },
+        {
+            "Train No": "12224",
+            "Train Name": "ERS-LTT DURONTO",
+            "Status": "LEFT",
+            "Station": "VILAVADE",
+            "Time": "14:50",
+            "Delay": "1:44"
+        },
+        {
+            "Train No": "12618",
+            "Train Name": "NZM-ERS MANGALA LKSD",
+            "Status": "ARRIVED",
+            "Station": "VILAVADE",
+            "Time": "14:40",
+            "Delay": "0:52"
+        },
+        {
+            "Train No": "12620",
+            "Train Name": "MATSYAGANDA EXP",
+            "Status": "LEFT",
+            "Station": "BARKUR",
+            "Time": "14:41",
+            "Delay": "0:8"
+        },
+        {
+            "Train No": "16338",
+            "Train Name": "OKHA EXPRESS",
+            "Status": "LEFT",
+            "Station": "ACHIRNE",
+            "Time": "14:48",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "16345",
+            "Train Name": "LTT-TVC NETRAVATI EX",
+            "Status": "LEFT",
+            "Station": "SAPE WAMANE",
+            "Time": "14:50",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "16586",
+            "Train Name": "MRDW-SMVB EXPRESS",
+            "Status": "LEFT",
+            "Station": "SHIROOR",
+            "Time": "14:37",
+            "Delay": "0:00"
+        },
+        {
+            "Train No": "20111",
+            "Train Name": "CSMT-MAO KONKAN KANY",
+            "Status": "LEFT",
+            "Station": "MAJORDA JN",
+            "Time": "14:46",
+            "Delay": "1:19"
+        },
+        {
+            "Train No": "22114",
+            "Train Name": "KCVL-LTT BI-WEEKLY S",
+            "Status": "ARRIVED",
+            "Station": "UDUPI",
+            "Time": "14:49",
+            "Delay": "1:8"
+        },
+        {
+            "Train No": "22115",
+            "Train Name": "LTT-KRMI AC SUPER FA",
+            "Status": "LEFT",
+            "Station": "NANDGAON ROAD",
+            "Time": "14:45",
+            "Delay": "4:51"
+        },
+        {
+            "Train No": "22119",
+            "Train Name": "CSTM-MAO TEJAS",
+            "Status": "ARRIVED",
+            "Station": "SANGAMESHWAR ROAD",
+            "Time": "14:48",
+            "Delay": "0:52"
+        },
+        {
+            "Train No": "22150",
+            "Train Name": "PUNE-ERS SF EXPRESS",
+            "Status": "LEFT",
+            "Station": "PERNEM",
+            "Time": "14:48",
+            "Delay": "3:59"
+        },
+        {
+            "Train No": "22230",
+            "Train Name": "MAO-CSMT VANDE BHARA",
+            "Status": "LEFT",
+            "Station": "SINDHUDURG",
+            "Time": "14:44",
+            "Delay": "0:32"
+        },
+        {
+            "Train No": "22633",
+            "Train Name": "NIZAMUDDIN EXP",
+            "Status": "LEFT",
+            "Station": "BHOKE",
+            "Time": "14:26",
+            "Delay": "1:24"
+        },
+        {
+            "Train No": "22908",
+            "Train Name": "HAPA MADGAON EXP",
+            "Status": "ARRIVED",
+            "Station": "ANJANI",
+            "Time": "14:50",
+            "Delay": "0:12"
+        },
+        {
+            "Train No": "GARUD",
+            "Train Name": "-SHRN-KVS1 GARUD-SHRN-KVS1",
+            "Status": "LEFT",
+            "Station": "BHATKAL",
+            "Time": "14:44",
+            "Delay": "21:4"
+        },
+        {
+            "Train No": "GAURA",
+            "Train Name": "V-SHRN-SK04 GAURAV-SHRN-SK04",
+            "Status": "LEFT",
+            "Station": "ANKOLA",
+            "Time": "14:47",
+            "Delay": "4:5"
+        }
+    ]
+}

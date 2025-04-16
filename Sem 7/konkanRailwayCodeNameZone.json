@@ -1,0 +1,462 @@
+[
+  {
+    "CODE": "CSMT",
+    "STATION NAME": "MUMBAI C.S.M.T.",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "CCG",
+    "STATION NAME": "CHURCHGATE",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "TNA",
+    "STATION NAME": "THANE",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "KYN",
+    "STATION NAME": "KALYAN JUNCTION",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "BA",
+    "STATION NAME": "BANDRA JUNCTION",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "BDTS",
+    "STATION NAME": "BANDRA TERMINUS",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "BVI",
+    "STATION NAME": "BORIVALI",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "DIVA",
+    "STATION NAME": "DIVA JUNCTION",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "PNVL",
+    "STATION NAME": "PANVEL",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "SMNE",
+    "STATION NAME": "SOMATNE",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "RSYI",
+    "STATION NAME": "RASAYANI",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "APTA",
+    "STATION NAME": "APTA",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "JITE",
+    "STATION NAME": "JITE",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "HMPR",
+    "STATION NAME": "HAMRAPUR",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "PEN",
+    "STATION NAME": "PEN",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "KASU",
+    "STATION NAME": "KASU",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "NGTN",
+    "STATION NAME": "NAGOTHANE",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "NIDI",
+    "STATION NAME": "NIDI",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "ROHA",
+    "STATION NAME": "ROHA",
+    "RAILWAY ZONE": "CR"
+  },
+  {
+    "CODE": "KOL",
+    "STATION NAME": "KOLAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "INP",
+    "STATION NAME": "INDAPUR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MNI",
+    "STATION NAME": "MANGAON",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "GNO",
+    "STATION NAME": "GOREGAON ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VEER",
+    "STATION NAME": "VEER",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SAPE",
+    "STATION NAME": "SAPE WAMANE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KFD",
+    "STATION NAME": "KARANJADI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VINH",
+    "STATION NAME": "VINHERE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "DWV",
+    "STATION NAME": "DIWANKHAVATI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KLBN",
+    "STATION NAME": "KALAMBANI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KHED",
+    "STATION NAME": "KHED",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "ANO",
+    "STATION NAME": "ANJANI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "CHI",
+    "STATION NAME": "CHIPLUN",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KMAH",
+    "STATION NAME": "KAMATHE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SVX",
+    "STATION NAME": "SAWARDA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "AVRD",
+    "STATION NAME": "ARAVALI ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KDVI",
+    "STATION NAME": "KADWAI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SGR",
+    "STATION NAME": "SANGAMESHWAR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "UKC",
+    "STATION NAME": "UKSHI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BOKE",
+    "STATION NAME": "BHOKE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "RN",
+    "STATION NAME": "RATNAGIRI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "NIV",
+    "STATION NAME": "NIVASAR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "ADVI",
+    "STATION NAME": "ADAVALI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VRLI",
+    "STATION NAME": "VERAVALI (H)",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VID",
+    "STATION NAME": "VILAVADE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SUAL",
+    "STATION NAME": "SAUNDAL",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "RAJP",
+    "STATION NAME": "RAJAPUR ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KRPN",
+    "STATION NAME": "KHAREPATAN",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VBW",
+    "STATION NAME": "VAIBHAVWADI ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "ACRN",
+    "STATION NAME": "ACHIRNE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "NAND",
+    "STATION NAME": "NANDGAON ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KKW",
+    "STATION NAME": "KANKAVALI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SNDD",
+    "STATION NAME": "SINDHUDURG",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KUDL",
+    "STATION NAME": "KUDAL",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "ZARP",
+    "STATION NAME": "ZARAP",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SWV",
+    "STATION NAME": "SAWANTWADI ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MADR",
+    "STATION NAME": "MADURE",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "PERN",
+    "STATION NAME": "PERNEM",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "THVM",
+    "STATION NAME": "THIVIM",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KRMI",
+    "STATION NAME": "KARMALI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "VEN",
+    "STATION NAME": "VERNA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MJO",
+    "STATION NAME": "MAJORDA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SVRX",
+    "STATION NAME": "SURAVALI (H)",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MAO",
+    "STATION NAME": "MADGAON",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BLLI",
+    "STATION NAME": "BALLI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "CNO",
+    "STATION NAME": "CANACONA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "LOL",
+    "STATION NAME": "LOLIEM",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "AT",
+    "STATION NAME": "ASNOTI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KAWR",
+    "STATION NAME": "KARWAR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "HAA",
+    "STATION NAME": "HARWADA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "ANKL",
+    "STATION NAME": "ANKOLA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "GOK",
+    "STATION NAME": "GOKARNA ROAD",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MRJN",
+    "STATION NAME": "MIRJAN",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KT",
+    "STATION NAME": "KUMTA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "HNA",
+    "STATION NAME": "HONNAVAR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MANK",
+    "STATION NAME": "MANKI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MRDW",
+    "STATION NAME": "MURUDESHWAR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "CTTP",
+    "STATION NAME": "CHITRAPUR(H)",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BTJL",
+    "STATION NAME": "BHATKAL",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SHMI",
+    "STATION NAME": "SHIROOR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BYNR",
+    "STATION NAME": "MOOKAMBIKA ROAD. BYNDOOR (H)",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BIJR",
+    "STATION NAME": "BIJOOR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SEN",
+    "STATION NAME": "SENAPURA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "KUDA",
+    "STATION NAME": "KUNDAPURA",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "BKJ",
+    "STATION NAME": "BARKUR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "UD",
+    "STATION NAME": "UDUPI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "INJ",
+    "STATION NAME": "INNANJE (H)",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "PDD",
+    "STATION NAME": "PADUBIDRI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "NAND",
+    "STATION NAME": "NANDIKOOR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MULK",
+    "STATION NAME": "MULKI",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "SL",
+    "STATION NAME": "SURATHKAL",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "TOK",
+    "STATION NAME": "THOKUR",
+    "RAILWAY ZONE": "KR"
+  },
+  {
+    "CODE": "MAQ",
+    "STATION NAME": "MANGALURU CENTRAL",
+    "RAILWAY ZONE": "SR"
+  }
+]
