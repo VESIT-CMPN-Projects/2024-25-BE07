@@ -21,3 +21,12 @@ The augmented data then powers the LLM to generate **precise responses**.
 - Advances the integration of **AI** into public transportation systems.
 
 ---
+
+## Team Members
+
+- Aryan Raje
+- Arya Raje
+- Ishita Marathe
+- Prasad Lahane
+
+---
